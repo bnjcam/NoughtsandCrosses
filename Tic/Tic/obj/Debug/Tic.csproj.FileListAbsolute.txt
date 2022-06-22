@@ -1,0 +1,22 @@
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\bin\Debug\Tic.exe.config
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\bin\Debug\Tic.exe
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\bin\Debug\Tic.pdb
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\obj\Debug\Tic.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\obj\Debug\Tic.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\obj\Debug\Tic.Form1.resources
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\obj\Debug\Tic.Properties.Resources.resources
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\obj\Debug\Tic.csproj.GenerateResource.cache
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\obj\Debug\Tic.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\obj\Debug\Tic.exe
+C:\Users\benja\OneDrive\Desktop\New folder (3)\Tic\Tic\obj\Debug\Tic.pdb
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\bin\Debug\Tic.exe.config
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\bin\Debug\Tic.exe
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\bin\Debug\Tic.pdb
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\obj\Debug\Tic.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\obj\Debug\Tic.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\obj\Debug\Tic.Form1.resources
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\obj\Debug\Tic.Properties.Resources.resources
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\obj\Debug\Tic.csproj.GenerateResource.cache
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\obj\Debug\Tic.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\obj\Debug\Tic.exe
+C:\Users\benja\OneDrive\Desktop\Interview\Tic\Tic\obj\Debug\Tic.pdb
